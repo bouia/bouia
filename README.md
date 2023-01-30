@@ -1,7 +1,7 @@
 <h1>💻 Open Roles | Postes Ouverts 💻</h1>
 <a style="font-size:30px" href="https://talentive.com/job/mobile-application-developer-android-and-ios-job-in-montreal-010101343449/?utm_source=github&utm_medium=readme">
-  📱 <s>iOS & Android Developer</s><span style="color:#E91E63 !important"> Filled</span>
-</a>
+  📱 <s>iOS & Android Developer</s></a><span style="color:#E91E63 !important"> Filled</span>
+
 <!--
 **bouia/bouia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
