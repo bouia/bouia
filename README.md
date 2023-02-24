@@ -1,5 +1,11 @@
 <h1>💻 Open Roles | Postes Ouverts 💻</h1>
 
+
+<a style="font-size:30px" href="https://talentive.com/job/it-director-job-in-montreal-122191313508/?utm_source=github&utm_medium=readme">
+  IT Director</a> 📍 Montreal
+  
+  <br/>
+  
 <a style="font-size:30px" href="https://talentive.com/job/mobile-application-developer-android-and-ios-job-in-montreal-010101343449/?utm_source=github&utm_medium=readme">
   Lead .NET Developer</a> 📍 Montreal
   
