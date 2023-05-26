@@ -3,17 +3,17 @@
 <a style="font-size:30px" href="https://talentive.com/job/programmeur-analyste-csharp-job-on-the-north-shore-91202421915/?utm_source=github&utm_medium=readme">
   .NET Developer</a></s> 📍 Laval
 
-<s><a style="font-size:30px" href="https://talentive.com/job/it-director-job-in-montreal-122191313508/?utm_source=github&utm_medium=readme">
-  IT Director</a></s> 📍 Montreal - [ Filled ] 
+<a style="font-size:30px" href="https://talentive.com/job/it-director-job-in-montreal-122191313508/?utm_source=github&utm_medium=readme">
+  <s>IT Director</s></a> 📍 Montreal - [ Filled ] 
   
-<s><a style="font-size:30px" href="https://talentive.com/job/mobile-application-developer-android-and-ios-job-in-montreal-010101343449/?utm_source=github&utm_medium=readme">
-  Lead .NET Developer</a></s> 📍 Montreal - [ Filled ]
+<a style="font-size:30px" href="https://talentive.com/job/mobile-application-developer-android-and-ios-job-in-montreal-010101343449/?utm_source=github&utm_medium=readme">
+ <s> Lead .NET Developer</s></a> 📍 Montreal - [ Filled ]
   
   <a style="font-size:30px" href="https://talentive.com/job/mobile-application-developer-android-and-ios-job-in-montreal-010101343449/?utm_source=github&utm_medium=readme">
   FullStack .NET Developer</a> 📍 Montreal
   
-  <s><a style="font-size:30px" href="https://talentive.com/job/senior-java-developer-job-in-montreal-030164835536/?utm_source=github&utm_medium=readme">
-  Senior Java Developer</a></s> 📍 Montreal - [ Filled ] 
+  <a style="font-size:30px" href="https://talentive.com/job/senior-java-developer-job-in-montreal-030164835536/?utm_source=github&utm_medium=readme">
+  <s>Senior Java Developer</s></a> 📍 Montreal - [ Filled ] 
 
 <a style="font-size:30px" href="https://talentive.com/job/mobile-application-developer-android-and-ios-job-in-montreal-010101343449/?utm_source=github&utm_medium=readme">
   <s>iOS & Android Developer</s></a> 📍 Montreal - [ Filled ] <br/>
