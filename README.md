@@ -3,6 +3,7 @@
 <br/>
   <a style="font-size:30px" href="https://talentive.com/en/jobs/software-development-team-lead-job-montreal-quebec-canada-630108963?utm_source=github&utm_medium=readme">
   Software Development Team Lead</a> 📍 Laval
+  <br/>
 <a style="font-size:30px" href="https://talentive.com/job/programmeur-analyste-csharp-job-on-the-north-shore-91202421915/?utm_source=github&utm_medium=readme">
   <s>.NET Developer</a></s> 📍 Laval [ Filled ]
 <br/>
