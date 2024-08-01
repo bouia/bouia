@@ -14,7 +14,7 @@
  <s> Lead .NET Developer</s></a> 📍 Montreal - [ Filled ]
 <br/>
   <a style="font-size:30px" href="https://talentive.com/job/mobile-application-developer-android-and-ios-job-in-montreal-010101343449/?utm_source=github&utm_medium=readme">
-  <s> </s>FullStack .NET Developer </s></a> 📍 Montreal [ Filled ]
+  <s> FullStack .NET Developer </s></a> 📍 Montreal [ Filled ]
 <br/>
   <a style="font-size:30px" href="https://talentive.com/job/senior-java-developer-job-in-montreal-030164835536/?utm_source=github&utm_medium=readme">
   <s>Senior Java Developer</s></a> 📍 Montreal - [ Filled ] 
